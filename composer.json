@@ -1,0 +1,14 @@
+{
+    "name": "git-superzqh/test",
+    "description": "a test project",
+    "type": "project",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "SuperZqh",
+            "email": "2336645668@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
